@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+<script type="text/javascript">
+
+    function w() {
+        var c = "开创独立王国的闭包";
+        var n = 1;
+        function b() {
+            console.log(c + '----打印' + n + '次');
+            n++;
+        }
+        return b;
+    }
+    var f1 = w()
+
+    f1()//开创独立王国的闭包----打印1次
+    f1()//开创独立王国的闭包----打印2次
+    f1()//开创独立王国的闭包----打印1次
+    f1()//开创独立王国的闭包----打印2次
+    w()
+    f1()
+</script>
+</head>
+<body>
+<>
+</body>
+</html>

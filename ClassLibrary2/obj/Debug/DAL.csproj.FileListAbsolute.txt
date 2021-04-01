@@ -1,0 +1,13 @@
+C:\Users\qq614\source\repos\FileTest\ClassLibrary2\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\qq614\source\repos\FileTest\ClassLibrary2\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\qq614\source\repos\FileTest\ClassLibrary2\bin\Debug\ClassLibrary2.dll
+C:\Users\qq614\source\repos\FileTest\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
+C:\Users\qq614\source\repos\FileTest\ClassLibrary2\bin\Debug\ClassLibrary1.dll
+C:\Users\qq614\source\repos\FileTest\ClassLibrary2\bin\Debug\Model.dll
+C:\Users\qq614\source\repos\FileTest\ClassLibrary2\bin\Debug\ClassLibrary1.pdb
+C:\Users\qq614\source\repos\FileTest\ClassLibrary2\bin\Debug\Model.pdb
+C:\Users\qq614\source\repos\FileTest\ClassLibrary2\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\qq614\source\repos\FileTest\ClassLibrary2\obj\Debug\ClassLibrary2.dll
+C:\Users\qq614\source\repos\FileTest\ClassLibrary2\obj\Debug\ClassLibrary2.pdb
+C:\Users\qq614\source\repos\FileTest\ClassLibrary2\bin\Debug\IDAL.dll
+C:\Users\qq614\source\repos\FileTest\ClassLibrary2\bin\Debug\IDAL.pdb

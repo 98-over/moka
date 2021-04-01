@@ -1,0 +1,233 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\qq614\\source\\repos\\FileTest\\FileTest\\BLL.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\qq614\\source\\repos\\FileTest\\ClassLibrary1\\Common.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\qq614\\source\\repos\\FileTest\\ClassLibrary1\\Common.csproj",
+        "projectName": "Common",
+        "projectPath": "C:\\Users\\qq614\\source\\repos\\FileTest\\ClassLibrary1\\Common.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Users\\qq614\\source\\repos\\FileTest\\Model\\Model.csproj": {
+                "projectPath": "C:\\Users\\qq614\\source\\repos\\FileTest\\Model\\Model.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\qq614\\source\\repos\\FileTest\\ClassLibrary2\\DAL.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\qq614\\source\\repos\\FileTest\\ClassLibrary2\\DAL.csproj",
+        "projectName": "DAL",
+        "projectPath": "C:\\Users\\qq614\\source\\repos\\FileTest\\ClassLibrary2\\DAL.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Users\\qq614\\source\\repos\\FileTest\\ClassLibrary1\\Common.csproj": {
+                "projectPath": "C:\\Users\\qq614\\source\\repos\\FileTest\\ClassLibrary1\\Common.csproj"
+              },
+              "C:\\Users\\qq614\\source\\repos\\FileTest\\IDAL\\IDAL.csproj": {
+                "projectPath": "C:\\Users\\qq614\\source\\repos\\FileTest\\IDAL\\IDAL.csproj"
+              },
+              "C:\\Users\\qq614\\source\\repos\\FileTest\\Model\\Model.csproj": {
+                "projectPath": "C:\\Users\\qq614\\source\\repos\\FileTest\\Model\\Model.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\qq614\\source\\repos\\FileTest\\DALFactory\\DALFactory.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\qq614\\source\\repos\\FileTest\\DALFactory\\DALFactory.csproj",
+        "projectName": "DALFactory",
+        "projectPath": "C:\\Users\\qq614\\source\\repos\\FileTest\\DALFactory\\DALFactory.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Users\\qq614\\source\\repos\\FileTest\\ClassLibrary2\\DAL.csproj": {
+                "projectPath": "C:\\Users\\qq614\\source\\repos\\FileTest\\ClassLibrary2\\DAL.csproj"
+              },
+              "C:\\Users\\qq614\\source\\repos\\FileTest\\IDAL\\IDAL.csproj": {
+                "projectPath": "C:\\Users\\qq614\\source\\repos\\FileTest\\IDAL\\IDAL.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\qq614\\source\\repos\\FileTest\\FileTest\\BLL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\qq614\\source\\repos\\FileTest\\FileTest\\BLL.csproj",
+        "projectName": "BLL",
+        "projectPath": "C:\\Users\\qq614\\source\\repos\\FileTest\\FileTest\\BLL.csproj",
+        "packagesPath": "C:\\Users\\qq614\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\qq614\\source\\repos\\FileTest\\FileTest\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\qq614\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {
+              "C:\\Users\\qq614\\source\\repos\\FileTest\\ClassLibrary1\\Common.csproj": {
+                "projectPath": "C:\\Users\\qq614\\source\\repos\\FileTest\\ClassLibrary1\\Common.csproj"
+              },
+              "C:\\Users\\qq614\\source\\repos\\FileTest\\ClassLibrary2\\DAL.csproj": {
+                "projectPath": "C:\\Users\\qq614\\source\\repos\\FileTest\\ClassLibrary2\\DAL.csproj"
+              },
+              "C:\\Users\\qq614\\source\\repos\\FileTest\\DALFactory\\DALFactory.csproj": {
+                "projectPath": "C:\\Users\\qq614\\source\\repos\\FileTest\\DALFactory\\DALFactory.csproj"
+              },
+              "C:\\Users\\qq614\\source\\repos\\FileTest\\Model\\Model.csproj": {
+                "projectPath": "C:\\Users\\qq614\\source\\repos\\FileTest\\Model\\Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\qq614\\source\\repos\\FileTest\\IDAL\\IDAL.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\qq614\\source\\repos\\FileTest\\IDAL\\IDAL.csproj",
+        "projectName": "IDAL",
+        "projectPath": "C:\\Users\\qq614\\source\\repos\\FileTest\\IDAL\\IDAL.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Users\\qq614\\source\\repos\\FileTest\\ClassLibrary1\\Common.csproj": {
+                "projectPath": "C:\\Users\\qq614\\source\\repos\\FileTest\\ClassLibrary1\\Common.csproj"
+              },
+              "C:\\Users\\qq614\\source\\repos\\FileTest\\Model\\Model.csproj": {
+                "projectPath": "C:\\Users\\qq614\\source\\repos\\FileTest\\Model\\Model.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\qq614\\source\\repos\\FileTest\\Model\\Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\qq614\\source\\repos\\FileTest\\Model\\Model.csproj",
+        "projectName": "Model",
+        "projectPath": "C:\\Users\\qq614\\source\\repos\\FileTest\\Model\\Model.csproj",
+        "packagesPath": "C:\\Users\\qq614\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\qq614\\source\\repos\\FileTest\\Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\qq614\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

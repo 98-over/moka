@@ -1,0 +1,11 @@
+C:\Users\qq614\source\repos\FileTest\IDAL\bin\Debug\IDAL.dll
+C:\Users\qq614\source\repos\FileTest\IDAL\bin\Debug\IDAL.pdb
+C:\Users\qq614\source\repos\FileTest\IDAL\bin\Debug\ClassLibrary1.dll
+C:\Users\qq614\source\repos\FileTest\IDAL\bin\Debug\Model.dll
+C:\Users\qq614\source\repos\FileTest\IDAL\bin\Debug\ClassLibrary1.pdb
+C:\Users\qq614\source\repos\FileTest\IDAL\bin\Debug\Model.pdb
+C:\Users\qq614\source\repos\FileTest\IDAL\obj\Debug\IDAL.csprojAssemblyReference.cache
+C:\Users\qq614\source\repos\FileTest\IDAL\obj\Debug\IDAL.csproj.CoreCompileInputs.cache
+C:\Users\qq614\source\repos\FileTest\IDAL\obj\Debug\IDAL.csproj.CopyComplete
+C:\Users\qq614\source\repos\FileTest\IDAL\obj\Debug\IDAL.dll
+C:\Users\qq614\source\repos\FileTest\IDAL\obj\Debug\IDAL.pdb

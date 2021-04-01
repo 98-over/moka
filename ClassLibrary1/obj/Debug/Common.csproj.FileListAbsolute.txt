@@ -1,0 +1,9 @@
+C:\Users\qq614\source\repos\FileTest\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\qq614\source\repos\FileTest\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\qq614\source\repos\FileTest\ClassLibrary1\bin\Debug\Model.dll
+C:\Users\qq614\source\repos\FileTest\ClassLibrary1\bin\Debug\Model.pdb
+C:\Users\qq614\source\repos\FileTest\ClassLibrary1\obj\Debug\Common.csprojAssemblyReference.cache
+C:\Users\qq614\source\repos\FileTest\ClassLibrary1\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\qq614\source\repos\FileTest\ClassLibrary1\obj\Debug\Common.csproj.CopyComplete
+C:\Users\qq614\source\repos\FileTest\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\qq614\source\repos\FileTest\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
